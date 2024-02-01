@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Sanjana Kashyap
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning coding!
-- 💞️ I’m looking to collaborate on coding!
-- 📫 How to reach me kashyap.san@northeastern.edu
+- 👋 Hi, I’m Sanjana Kashyap, a CS student at Northeastern University.
+- 📫 How to reach me: kashyap.san@northeastern.edu
 
 <!---
 sanjanakash/sanjanakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
