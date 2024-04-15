@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sanjana Kashyap, a CS student at Northeastern University.
+- 👩‍💻 Something that I've worked on recently: https://github.com/neu-cs4530/spring24-project-206
 - 📫 How to reach me: kashyap.san@northeastern.edu
 
 <!---
