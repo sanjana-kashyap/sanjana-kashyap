@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sanjana Kashyap, a CS student at Northeastern University.
+- 👋 Hi, I’m Sanjana Kashyap, an INI student at Carnegie Mellon University.
 - 👩‍💻 Something that I've worked on recently: https://github.com/neu-cs4530/spring24-project-206
-- 📫 How to reach me: kashyap.san@northeastern.edu
+- 📫 How to reach me: sanjana@bestofmysore.net
 
 <!---
 sanjanakash/sanjanakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
