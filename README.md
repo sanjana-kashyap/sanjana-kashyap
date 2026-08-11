@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjana Kashyap, an INI student at Carnegie Mellon University.
-- 👩‍💻 Something that I've worked on recently: [https://github.com/neu-cs4530/spring24-project-206](Pixel's Pet Shop)
+- 👩‍💻 Something that I've worked on recently: [Pixel's Pet Shop](https://github.com/neu-cs4530/spring24-project-206)
 - 📫 How to reach me: sanjana@bestofmysore.net
 
 <!---
